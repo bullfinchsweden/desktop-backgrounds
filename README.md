@@ -2,7 +2,7 @@
 
 A personal collection of desktop backgrounds.
 
-THESE ARE ONLY PREVIEWS! CHECK THE FOLDER FOR FULL RESOLUTIONS AND MORE IMAGES.
+THESE ARE ONLY PREVIEWS! CHECK THE FOLDER FOR FULL SIZES AND MORE IMAGES.
 
 ![Everforest](https://github.com/user-attachments/assets/4d1f10ab-aae2-43f8-8db5-b8801573f9ea)
 
