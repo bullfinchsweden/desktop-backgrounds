@@ -4,6 +4,7 @@ A personal collection of desktop backgrounds.
 
 <img width="1500" height="841" alt="Everforest" src="https://github.com/user-attachments/assets/cd2fe014-2e47-42cb-863d-a35301279812" />
 
+<img width="1500" height="900" alt="Gnarl Synapse" src="https://github.com/user-attachments/assets/2ef8aad7-086b-4c64-8d18-f023cfc377c8" />
 
 
 
