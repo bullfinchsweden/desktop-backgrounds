@@ -9,3 +9,5 @@ A personal collection of desktop backgrounds.
 <img width="1500" height="832" alt="Colour" src="https://github.com/user-attachments/assets/39f73554-5eb1-41bd-8961-1e3cc8ba81f4" />
 <br/>
 <img width="1500" height="844" alt="White Oak" src="https://github.com/user-attachments/assets/3ff99cee-9146-4d9f-8fa1-ed9aae2e0b35" />
+<br/>
+<img width="1500" height="844" alt="Everforest Waves" src="https://github.com/user-attachments/assets/b268e33e-0ca7-4508-b271-7fc0bd1932dc" />
