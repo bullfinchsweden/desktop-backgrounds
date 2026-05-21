@@ -2,4 +2,4 @@
 
 A personal collection of desktop backgrounds.
 
-<img width="180" height="200" alt="MrSmiley" src="https://github.com/user-attachments/assets/1976454a-abb4-4ed3-be35-11be124ddc4f" />
+<img width="300" height="269" alt="MrSmiley" src="https://github.com/user-attachments/assets/7966157d-2721-4f6a-82d0-3b93840b76d8" />
