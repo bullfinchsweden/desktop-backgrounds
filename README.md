@@ -2,4 +2,4 @@
 
 A personal collection of desktop backgrounds.
 
-<img width="103" height="103" alt="ImageSymbol" src="https://github.com/user-attachments/assets/4c2a6eed-d54b-4bad-81f5-6d90839468a0" />
+<img width="103" height="103" alt="Images" src="https://github.com/user-attachments/assets/ca8eaca8-a552-407d-83ea-05d304e322ce" />
